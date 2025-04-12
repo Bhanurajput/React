@@ -1,0 +1,31 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is a Namaste React By Bhanu",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Bhanurajput/React.git)"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "bhanu"
+  ],
+  "author": "Bhanu partap",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
